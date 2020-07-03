@@ -1,1 +1,1 @@
-Custumized plot in Matlab
+# Sample of custumized plot in Matlab
